@@ -23,7 +23,7 @@
   },
   "main": "index.js",
   "peerDependencies": {
-    "counterpart": "^0.16.4"
+    "counterpart": "^0.17.0"
   },
   "devDependencies": {
     "counterpart": "^0.17.0",
